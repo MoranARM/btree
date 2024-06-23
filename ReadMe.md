@@ -10,6 +10,7 @@ The B Tree is a self-balancing search tree that maintains sorted data and allows
 
 - Search: The B Tree allows for fast searching of elements based on their keys.
 - Insertion: The B Tree supports efficient insertion of new elements while maintaining the sorted order of the data.
+- Update: Handled within insertion, if key is found value will be replaced
 
 ## Usage
 
